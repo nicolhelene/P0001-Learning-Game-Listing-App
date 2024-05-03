@@ -1,0 +1,4 @@
+Fullstack React JS, Tailwind CSS, and Vite Project Tutorial
+https://www.youtube.com/watch?v=rTvOSxQw-f4
+Started:  30 April 2024
+Finished: without Filter 4 May 2024
